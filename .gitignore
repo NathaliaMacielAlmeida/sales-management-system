@@ -1,0 +1,42 @@
+# =========================
+# Java
+# =========================
+*.class
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# =========================
+# Banco de dados
+# =========================
+*.db
+*.sqlite
+
+# =========================
+# IDEs
+# =========================
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# =========================
+# Build / Libs geradas
+# =========================
+bin/
+build/
+out/
+
+# =========================
+# Sistema operacional
+# =========================
+.DS_Store
+Thumbs.db

@@ -94,11 +94,11 @@ java -cp ".;lib/sqlite-jdbc-3.51.2.0.jar" Main
 
 ### Menu interativo
 
-![Menu](prints/print_menu.png)
+![Menu](prints/print_sistema_menu.png)
 
 ### Tabela de produtos
 
-![Tabela](prints/print_tabela.png)
+![Tabela](prints/print_tabela_produtos.png)
 
 ### Script SQL
 
